@@ -15,6 +15,7 @@ public class Calculadora {
    public double sumar(double a, double b) {
       return a+b;
    }
+   //Resta
    public double restar(double a, double b) {
       return a-b;
    }

@@ -32,6 +32,7 @@ public class AppCalculadora {
             case "+":
             resultat = c.sumar(num1, num2);
             break;
+            //Resta
             case "-":
             resultat = c.restar(num1, num2);
             break;
