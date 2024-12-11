@@ -29,6 +29,7 @@ public class AppCalculadora {
          case "/":
             resultat = c.dividir(num1, num2);
             break;
+            //Suma
             case "+":
             resultat = c.sumar(num1, num2);
             break;
