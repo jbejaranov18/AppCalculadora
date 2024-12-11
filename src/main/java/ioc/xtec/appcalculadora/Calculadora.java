@@ -12,6 +12,7 @@ public class Calculadora {
       }*/
       return a/b;
    }
+   //Sumar
    public double sumar(double a, double b) {
       return a+b;
    }
