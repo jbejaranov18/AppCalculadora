@@ -12,7 +12,11 @@ public class Calculadora {
       }*/
       return a/b;
    }
+<<<<<<< HEAD
    //Sumar
+=======
+   //Suma
+>>>>>>> branca_resta
    public double sumar(double a, double b) {
       return a+b;
    }
@@ -20,4 +24,11 @@ public class Calculadora {
    public double restar(double a, double b) {
       return a-b;
    }
+<<<<<<< HEAD
+=======
+   //metode creat amb branca resta
+   public String conflicte() {
+      return "conflicte amb branca resta";
+   }
+>>>>>>> branca_resta
 }
