@@ -34,9 +34,13 @@ public class AppCalculadora {
             resultat = c.sumar(num1, num2);
             break;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
             //Resta
 >>>>>>> branca_resta
+=======
+            //resta
+>>>>>>> refs/remotes/origin/main
             case "-":
             resultat = c.restar(num1, num2);
             break;
