@@ -20,4 +20,8 @@ public class Calculadora {
    public double restar(double a, double b) {
       return a-b;
    }
+   //metode creat amb branca resta
+   public String conflicte() {
+      return "conflicte amb branca resta";
+   }
 }
